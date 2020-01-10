@@ -10,3 +10,5 @@ After that,
 `cd my-app` , make sure that you have maven installed.
 then `mvn package`
 then after the build is complete, run  `java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App`
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
